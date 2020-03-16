@@ -1,0 +1,13 @@
+version: 0.1
+
+phases:
+  build:
+    command:
+      - echo nothing to do yet
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - LarryTan-Resume.pdf
+    - styles/main.css
+    - images/*
